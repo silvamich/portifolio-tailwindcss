@@ -1,4 +1,4 @@
 # portifolio-tailwindcss
 
-JArbas e Michele
+Jarbas e Michele
  
